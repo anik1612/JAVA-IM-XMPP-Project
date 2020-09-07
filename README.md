@@ -1,8 +1,8 @@
 # JAVA-IM-XMPP-Project
 
-#Instructor:
-#LU GEHAO
-Yunnan University
+# Instructor:
+# LU GEHAO
+# Yunnan University
 
 Vendor: 
 Group Member:
